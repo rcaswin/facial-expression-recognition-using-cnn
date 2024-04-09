@@ -29,3 +29,8 @@ Contributions to this project are welcome. You can contribute by:
 
 ## License
 This project is licensed under the [MIT License][LICENSE](https://github.com/rcaswin/facial-expression-recognition-using-cnn/blob/main/LICENSE.txt).
+
+## Output
+![Image Description](image_url)
+![Image Description](image_url)
+
